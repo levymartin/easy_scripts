@@ -5,3 +5,4 @@ read search_data
 echo "Searching..."
 locate $search_data
 
+# we can store search result in file with > file.txt
