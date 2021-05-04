@@ -24,4 +24,3 @@ fi
 echo " ****************************"
 echo "Max lenght is $max_len"
 echo "Longest word is $ref_word"
- 
